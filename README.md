@@ -11,28 +11,43 @@
     <tr>
     <td>Icon.png</td>
     <td>57x57px</td>
-    <td>The icon displayed on the homescreen on legacy devices.</tr>
+    <td>The icon displayed on the homescreen on legacy devices.</td>
+    </tr>
+    <tr>
     <td>Icon@2x.png</td>
     <td>114x114px</td>
-    <td>The icon displayed on the homescreen on retina devices.</tr>
+    <td>The icon displayed on the homescreen on retina devices.</td>
+    </tr>
+    <tr>
     <td>Icon-Small.png</td>
     <td>29x29px</td>
-    <td>Settings Icon</tr>
+    <td>Settings Icon</td>
+    </tr>
+    <tr>
     <td>Icon-Small@2x.png</td>
     <td>58x58px</td>
-    <td>Retina Settings Icon</tr>
+    <td>Retina Settings Icon</td>
+    </tr>
+    <tr>
     <td>Icon-Small-50.png</td>
     <td>57x57px</td>
-    <td>Spotlight search results icon</tr>
+    <td>Spotlight search results icon</td>
+    </tr>
+    <tr>
     <td>Icon-Small-50.@2xpng</td>
     <td>50x50px</td>
-    <td>Spotlight search results icon retina</tr>
+    <td>Spotlight search results icon retina</td>
+    </tr>
+    <tr>
     <td>iTunesArtwork.png</td>
     <td>100x100px</td>
     <td>App icon to be displayed on the App Store</tr>
+    </tr>
+    <tr>
     <td>iTunesArtwork@2x.png</td>
     <td>57x57px</td>
-    <td>Retina version of the App icon to be displayed on the App Store</tr>
+    <td>Retina version of the App icon to be displayed on the App Store</td>
+    </tr>
 </table>
    **Launch screen** graphics are displayed when the app is launched, and generally consist of the application’s logo and perhaps a few words about the app. It is sized accordingly, pursuant to the same guidelines:<table>
 	<thead>
